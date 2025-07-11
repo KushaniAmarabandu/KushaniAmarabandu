@@ -62,17 +62,18 @@ KPM Paris Transport is a comprehensive shuttle booking system designed to stream
 
 ---
 
-### **WELS – Water Efficiency Labeling (Australia Gov)**  
+### **WELS – Water Efficiency Labeling (Australia Gov)**  (https://www.waterrating.gov.au/)
 > Java 8 • JSP • Oracle • OWASP Secure Coding
 
-- Delivered OWASP-compliant solutions to enforce national standards for water-efficient appliances.
+- WELS is an initiative by the Australian Government aimed at promoting water efficiency through standardized labeling for appliances and products that use water. The platform ensures that consumers can make informed purchasing decisions based on water efficiency ratings.
+- As part of the development team, I contributed to building and maintaining this regulatory system while ensuring OWASP-compliant secure coding practices throughout the software development lifecycle. The solution supports industry compliance, enables efficient product registration, and facilitates enforcement of national water efficiency standards.
 
 ---
 
-### **ABBBS – Australian Bird & Bat Banding System**  
-> Java • JSP • Spring • Oracle
+### **ABBBS – Australian Bird & Bat Banding System**  (https://www.dcceew.gov.au/science-research/bird-bat-banding)
+> Java • JSP • Spring • Oracle • Jasper Reports
 
-- Built backend logic and reporting features to track endangered species data.
+- The Australian Bird & Bat Banding System (ABBBS) is a government initiative aimed at monitoring and conserving bird and bat populations across Australia. I contributed to the backend development and report generation features of the system, which facilitates the collection, management, and analysis of banding data for research and conservation efforts. This included designing and implementing modules to track endangered species, generate custom reports for researchers and government officials, and ensure data accuracy and compliance with ecological standards. The system plays a crucial role in protecting Australia's biodiversity by providing reliable data for environmental planning and policy-making..
 
 ---
 
@@ -86,7 +87,7 @@ KPM Paris Transport is a comprehensive shuttle booking system designed to stream
 ### **WRUKC – AI Tree Catalog App**  
 > Node.js • Flutter • MySQL
 
-- Developed an environmental AI-driven system for identifying tree species from visual input.
+- WRUKC is an AI-powered environmental application designed to identify and catalog tree species from visual input such as photographs. The system collects detailed tree data to train and refine an AI model capable of recognizing various species with high accuracy. Built with a Node.js backend and Flutter frontend, the platform supports data entry, image uploads, and database management for efficient environmental research and ecological studies. It plays a vital role in biodiversity tracking and raising awareness about native flora.
 
 ---
 
