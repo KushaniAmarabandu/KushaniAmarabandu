@@ -102,11 +102,13 @@ KPM Paris Transport is a comprehensive shuttle booking system designed to stream
 - Maintained business-critical apps and reporting tools; provided ALIP (Accenture Life Insurance Platform) support
 
 ### **Associate Consultant (Java)** – *Virtusa Pvt Ltd*  
-📍 *Sri Lanka | 2017 – 2021*  
+📍 *Sri Lanka | 2017 – 2021* 
+Project : *British Telecommunications (UK Client)* 
 - Worked on BT iPublish, MDS, and other global projects with Agile teams
 
-### **Engineer/Associate Java Developer** – *Martin Dawes System (UK Client)*  
+### **Engineer/Associate Java Developer** – *Virtusa Pvt Ltd*  
 📍 *Sri Lanka | 2017 – 2019*  
+Project : *Martin Dawes System (UK Client)*  
 - Core developer on Spring Batch and DB2-based processing systems for telecom billing
 
 ### **Trainee Software Engineer** – *Wavenet Pvt Ltd*  
