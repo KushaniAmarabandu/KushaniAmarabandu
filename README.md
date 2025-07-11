@@ -126,7 +126,7 @@ Project : *Martin Dawes System (UK Client)*
 
 ## 💬 Let’s Connect
 
-📬 [kushaniamarabandu@gmail.com](mailto:kushaniamarabandu@gmail.com)  
+📬 [kushani1991@hotmail.com](mailto:kushani1991@hotmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/kushaniamarabandu/)  
 📍 Based in Sri Lanka, open to remote and relocation opportunities!
 
